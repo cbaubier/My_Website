@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://chloebaubier.netlify.app/
 languageCode: en-us
-title: Forty
+title: My website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -21,7 +21,7 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: cbaubier@gmail.com
         title: Email
     enable: yes
     phone:
@@ -57,7 +57,7 @@ params:
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com
-  image: ''
+  image: 'Chloé Baubier'
   name: Your name
   navigation:
     button1:
