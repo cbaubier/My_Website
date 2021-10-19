@@ -1,8 +1,15 @@
 ---
-title: "project0"
-output: html_document
+categories:
+- ""
+- ""
+date: "2017-10-31T21:28:43-05:00"
+description: ""
+draft: false
+image: 
+keywords: ""
+slug: project0
+title: project0
 ---
-
 
 My name is **Chloé**. 
 I'm French and ever since I can remember, I've been obsessed by films. When I was living in Paris, I would go to the cinema at least twice a week. When people are bored, they usually go on Facebook or Instagram, I go on [BoxOfficeMojo] (https://boxofficemojo.com). 
