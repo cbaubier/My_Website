@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: projects/project0_image1.jpg 
+      - image: image1.jpg 
         subtitle: Who am I? 
         title: About me
         url: projects/project0
@@ -101,7 +101,7 @@ params:
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
         url: blogs/ipsum
-      - image: pic06.jpg
+      - image: 
         subtitle: Feugiat Amet Tempus
         title: Etiam
         url: blogs/ipsum
