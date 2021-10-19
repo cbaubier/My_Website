@@ -6,11 +6,10 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Find out more
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Chloé, and this is my website!
+      A WEBSITE THAT ANALYSES THE FILM INDUSTRY
+    title: Chloé Baubier
   blog: {}
   contact:
    # address:
@@ -56,7 +55,7 @@ params:
         url: https://www.github.com/cbaubier
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com/chloe-baubier-77340/
+        url: https://www.linkedin.com/in/chloe-baubier-77340/
   image: 'Chloé Baubier'
   name: Chloé Baubier
   navigation:
@@ -81,9 +80,9 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: 
+        subtitle: 
+        title: About me
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
