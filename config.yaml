@@ -1,6 +1,6 @@
 baseURL: https://chloebaubier.netlify.app/
 languageCode: en-us
-title: My website
+title: My website for Kostis Christodoulou
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,9 +8,10 @@ params:
   banner:
     buttonText: Find out more
     subtitle: |-
-      A WEBSITE THAT ANALYSES THE FILM INDUSTRY
-    title: Chloé Baubier
-  blog: {}
+      A WEBSITE CREATED BY CHLOE BAUBIER
+      
+    title: MOVIE ANALYTICS
+  blog: {MFA Student at London Business School}
   contact:
    # address:
    #   - city: City, ST 00000
@@ -22,7 +23,7 @@ params:
     email:
       - email: cbaubier@gmail.com
         title: Email
-    enable: yes
+  #  enable: yes
   #  phone:
  #     - phone: (000) 000-0000 x1234
    #     title: Phone
@@ -34,12 +35,12 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Chloé Baubier 
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+      - alt: UK
+        text: 'Country: '
+      #  url: https://www.html5up.net
     social:
   #    - icon: fa-twitter
    #     label: Twitter
@@ -59,32 +60,32 @@ params:
   image: 'Chloé Baubier'
   name: Chloé Baubier
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+  #  button1:
+    #  - name: Get Started
+    #    url: blogs
+    #button2:
+   #   - name: Log In
+    #    url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
+      - name: Blogs #Box office
         url: blogs
-      - name: Generic Blog
+      - name: Generic Blog #Upcoming releases
         url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+    #  - name: Elements #dunno
+      #  url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+   # subtitle: By HTML5 Up
+  #  title: Forty
   tiles:
     enable: yes
     showcase:
-      - image: 
-        subtitle: 
+      - image: projects/project0_image1.jpg
+        subtitle: Who am I? 
         title: About me
-        url: blogs/aliquam
-      - image: pic02.jpg
+        url: projects/project0
+      - image: 
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
