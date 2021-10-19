@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: projects/project0_image1.jpg
+      - image: projects/project0_image1.jpg 
         subtitle: Who am I? 
         title: About me
         url: projects/project0
