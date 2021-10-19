@@ -101,7 +101,7 @@ params:
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
         url: blogs/ipsum
-      - image: 
+      - image: image1.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
         url: blogs/ipsum
