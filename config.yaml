@@ -86,9 +86,9 @@ params:
         title: About me
         url: projects/project0
       - image: 
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: A glance at the best movies of all time
+        title: Rolling!
+        url: projects/project1
       - image: 
         subtitle: Lorem Etiam Nullam
         title: Magna
