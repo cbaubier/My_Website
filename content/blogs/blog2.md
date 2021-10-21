@@ -3,9 +3,9 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:09-05:00"
-description: Lorem Etiam Nullam
+description: 
 draft: false
-image: image6.jpg
+image: image7.jpg
 keywords: ""
 slug: magna
 title: No time to die

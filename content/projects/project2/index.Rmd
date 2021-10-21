@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Life or death question: who wins in a fight between Tim Burton and Steven Spielberg?
+Life or death question: who wins in a fight between Tim Burton and Steven Spielberg?  
 For us to answer this question we'll try to find out which of the two has the best ratings!
 
 
@@ -64,5 +64,6 @@ ggplot(imdb_ratings,aes(x = mean_rating, y = reorder(director, desc(director)), 
   theme_bw() +
   theme(legend.position = "none")
 ```
+  
 Our statistics analysis clearly shows that Spielberg wins against Burton.
 I'm not going to lie, I actually agree with this. What do you guys think? 
